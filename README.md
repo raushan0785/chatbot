@@ -26,7 +26,7 @@ pip install numpy opencv-python streamlit tensorflow keras streamlit-webrtc
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/Sudhanshushekhar6.git
 cd your-repository-folder
 ```
 
